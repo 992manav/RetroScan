@@ -1,0 +1,1012 @@
+[
+    {
+        "timestamp": "2026-04-21T00:17:51.035576",
+        "lat": 28.535630395810205,
+        "lng": 77.39125381344957,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 6229.64,
+        "irc_status": "SAFE",
+        "days_to_failure": 15225,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:51.035576",
+        "lat": 28.535630395810205,
+        "lng": 77.39125381344957,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3792.21,
+        "irc_status": "SAFE",
+        "days_to_failure": 5267,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:51.035576",
+        "lat": 28.535630395810205,
+        "lng": 77.39125381344957,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 5472.35,
+        "irc_status": "SAFE",
+        "days_to_failure": 13661,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:51.537028",
+        "lat": 28.53574361492962,
+        "lng": 77.39136568879141,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1394.47,
+        "irc_status": "SAFE",
+        "days_to_failure": 1782,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:51.537028",
+        "lat": 28.53574361492962,
+        "lng": 77.39136568879141,
+        "object_type": "ROAD_STUD",
+        "ra_value": 2447.56,
+        "irc_status": "SAFE",
+        "days_to_failure": 3516,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:52.037862",
+        "lat": 28.53597980583512,
+        "lng": 77.39159629318074,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1527.44,
+        "irc_status": "SAFE",
+        "days_to_failure": 1752,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:52.037862",
+        "lat": 28.53597980583512,
+        "lng": 77.39159629318074,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 2822.9,
+        "irc_status": "SAFE",
+        "days_to_failure": 6435,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:52.037862",
+        "lat": 28.53597980583512,
+        "lng": 77.39159629318074,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2249.29,
+        "irc_status": "SAFE",
+        "days_to_failure": 1826,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:52.538321",
+        "lat": 28.53621085079731,
+        "lng": 77.39185424588153,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 394.11,
+        "irc_status": "SAFE",
+        "days_to_failure": 430,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:53.038896",
+        "lat": 28.536429600590683,
+        "lng": 77.39196705558743,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 838.61,
+        "irc_status": "SAFE",
+        "days_to_failure": 607,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:53.539380",
+        "lat": 28.536676949152906,
+        "lng": 77.3922551195671,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 1820.78,
+        "irc_status": "SAFE",
+        "days_to_failure": 1514,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:54.039686",
+        "lat": 28.5368439947167,
+        "lng": 77.39254752692895,
+        "object_type": "ROAD_STUD",
+        "ra_value": 961.87,
+        "irc_status": "SAFE",
+        "days_to_failure": 1112,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:54.539973",
+        "lat": 28.536989282386063,
+        "lng": 77.39271127517432,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 557.04,
+        "irc_status": "SAFE",
+        "days_to_failure": 798,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:54.539973",
+        "lat": 28.536989282386063,
+        "lng": 77.39271127517432,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1397.29,
+        "irc_status": "SAFE",
+        "days_to_failure": 1868,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.040293",
+        "lat": 28.537232501539336,
+        "lng": 77.39287836855104,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3461.85,
+        "irc_status": "SAFE",
+        "days_to_failure": 4585,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.040293",
+        "lat": 28.537232501539336,
+        "lng": 77.39287836855104,
+        "object_type": "ROAD_STUD",
+        "ra_value": 2869.37,
+        "irc_status": "SAFE",
+        "days_to_failure": 3606,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.040293",
+        "lat": 28.537232501539336,
+        "lng": 77.39287836855104,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 7016.47,
+        "irc_status": "SAFE",
+        "days_to_failure": 6636,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.541001",
+        "lat": 28.53741612422783,
+        "lng": 77.39310457027709,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2847.86,
+        "irc_status": "SAFE",
+        "days_to_failure": 2336,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.541001",
+        "lat": 28.53741612422783,
+        "lng": 77.39310457027709,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1287.29,
+        "irc_status": "SAFE",
+        "days_to_failure": 2760,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:55.541001",
+        "lat": 28.53741612422783,
+        "lng": 77.39310457027709,
+        "object_type": "ROAD_STUD",
+        "ra_value": 5272.98,
+        "irc_status": "SAFE",
+        "days_to_failure": 6702,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:56.041628",
+        "lat": 28.537535029303726,
+        "lng": 77.393380926461,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1631.23,
+        "irc_status": "SAFE",
+        "days_to_failure": 2154,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:56.542287",
+        "lat": 28.5377139459488,
+        "lng": 77.39351144543885,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2814.5,
+        "irc_status": "SAFE",
+        "days_to_failure": 2380,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:57.042631",
+        "lat": 28.537994549724,
+        "lng": 77.39376739452356,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1561.18,
+        "irc_status": "SAFE",
+        "days_to_failure": 2113,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:57.042631",
+        "lat": 28.537994549724,
+        "lng": 77.39376739452356,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 827.38,
+        "irc_status": "SAFE",
+        "days_to_failure": 707,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:57.542971",
+        "lat": 28.538144535077713,
+        "lng": 77.3940415015043,
+        "object_type": "ROAD_STUD",
+        "ra_value": 4644.15,
+        "irc_status": "SAFE",
+        "days_to_failure": 6830,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:57.542971",
+        "lat": 28.538144535077713,
+        "lng": 77.3940415015043,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1899.1,
+        "irc_status": "SAFE",
+        "days_to_failure": 4875,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:58.043316",
+        "lat": 28.538423682334297,
+        "lng": 77.394150442606,
+        "object_type": "ROAD_STUD",
+        "ra_value": 180.99,
+        "irc_status": "WARNING",
+        "days_to_failure": 44,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:58.043316",
+        "lat": 28.538423682334297,
+        "lng": 77.394150442606,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 380.94,
+        "irc_status": "SAFE",
+        "days_to_failure": 243,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:58.043316",
+        "lat": 28.538423682334297,
+        "lng": 77.394150442606,
+        "object_type": "ROAD_STUD",
+        "ra_value": 468.18,
+        "irc_status": "SAFE",
+        "days_to_failure": 453,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:58.543841",
+        "lat": 28.538532567157926,
+        "lng": 77.39435942729607,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 40799.13,
+        "irc_status": "SAFE",
+        "days_to_failure": 34900,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:59.044551",
+        "lat": 28.538741890186916,
+        "lng": 77.39465400652826,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 3821.94,
+        "irc_status": "SAFE",
+        "days_to_failure": 10704,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:59.044551",
+        "lat": 28.538741890186916,
+        "lng": 77.39465400652826,
+        "object_type": "ROAD_STUD",
+        "ra_value": 6134.37,
+        "irc_status": "SAFE",
+        "days_to_failure": 8925,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:59.544731",
+        "lat": 28.539023021513483,
+        "lng": 77.39478076141117,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 25490.73,
+        "irc_status": "SAFE",
+        "days_to_failure": 68150,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:17:59.544731",
+        "lat": 28.539023021513483,
+        "lng": 77.39478076141117,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 7421.48,
+        "irc_status": "SAFE",
+        "days_to_failure": 6513,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:00.045464",
+        "lat": 28.53917362042728,
+        "lng": 77.39492210013822,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 225.38,
+        "irc_status": "SAFE",
+        "days_to_failure": 102,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:00.546431",
+        "lat": 28.53947316663533,
+        "lng": 77.39521541042868,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 475.95,
+        "irc_status": "SAFE",
+        "days_to_failure": 354,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:00.546431",
+        "lat": 28.53947316663533,
+        "lng": 77.39521541042868,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1413.13,
+        "irc_status": "SAFE",
+        "days_to_failure": 3447,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:00.546431",
+        "lat": 28.53947316663533,
+        "lng": 77.39521541042868,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1628.59,
+        "irc_status": "SAFE",
+        "days_to_failure": 2136,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.047085",
+        "lat": 28.53959287834012,
+        "lng": 77.39543247571706,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 13069.84,
+        "irc_status": "SAFE",
+        "days_to_failure": 34044,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.047085",
+        "lat": 28.53959287834012,
+        "lng": 77.39543247571706,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 4015.33,
+        "irc_status": "SAFE",
+        "days_to_failure": 10846,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.047085",
+        "lat": 28.53959287834012,
+        "lng": 77.39543247571706,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 11134.58,
+        "irc_status": "SAFE",
+        "days_to_failure": 28146,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.547373",
+        "lat": 28.539840972179995,
+        "lng": 77.39558135271359,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 4116.59,
+        "irc_status": "SAFE",
+        "days_to_failure": 3763,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.547373",
+        "lat": 28.539840972179995,
+        "lng": 77.39558135271359,
+        "object_type": "ROAD_STUD",
+        "ra_value": 5503.28,
+        "irc_status": "SAFE",
+        "days_to_failure": 7730,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:01.547373",
+        "lat": 28.539840972179995,
+        "lng": 77.39558135271359,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 7379.75,
+        "irc_status": "SAFE",
+        "days_to_failure": 19650,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:02.048368",
+        "lat": 28.540123129168556,
+        "lng": 77.3957003351917,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 736.37,
+        "irc_status": "SAFE",
+        "days_to_failure": 1227,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:02.048368",
+        "lat": 28.540123129168556,
+        "lng": 77.3957003351917,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 2174.61,
+        "irc_status": "SAFE",
+        "days_to_failure": 5522,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:02.549255",
+        "lat": 28.540227977796143,
+        "lng": 77.39597462781934,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 2465.72,
+        "irc_status": "SAFE",
+        "days_to_failure": 5586,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:02.549255",
+        "lat": 28.540227977796143,
+        "lng": 77.39597462781934,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 677.91,
+        "irc_status": "SAFE",
+        "days_to_failure": 477,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.049814",
+        "lat": 28.540346605010978,
+        "lng": 77.39612535138747,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 357.81,
+        "irc_status": "WARNING",
+        "days_to_failure": 277,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.049814",
+        "lat": 28.540346605010978,
+        "lng": 77.39612535138747,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 1548.71,
+        "irc_status": "SAFE",
+        "days_to_failure": 1195,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.049814",
+        "lat": 28.540346605010978,
+        "lng": 77.39612535138747,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1480.56,
+        "irc_status": "SAFE",
+        "days_to_failure": 3698,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.550182",
+        "lat": 28.540561503213436,
+        "lng": 77.3963716891341,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3300.36,
+        "irc_status": "SAFE",
+        "days_to_failure": 4162,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.550182",
+        "lat": 28.540561503213436,
+        "lng": 77.3963716891341,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 4315.31,
+        "irc_status": "SAFE",
+        "days_to_failure": 11013,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:03.550182",
+        "lat": 28.540561503213436,
+        "lng": 77.3963716891341,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 9545.57,
+        "irc_status": "SAFE",
+        "days_to_failure": 8272,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:04.050425",
+        "lat": 28.540671168456154,
+        "lng": 77.39649802542915,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 8952.53,
+        "irc_status": "SAFE",
+        "days_to_failure": 8068,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:04.550633",
+        "lat": 28.540968415529836,
+        "lng": 77.39662498878128,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 293.88,
+        "irc_status": "SAFE",
+        "days_to_failure": 166,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:04.550633",
+        "lat": 28.540968415529836,
+        "lng": 77.39662498878128,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 696.3,
+        "irc_status": "SAFE",
+        "days_to_failure": 555,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:05.051308",
+        "lat": 28.541189974982345,
+        "lng": 77.39687174828012,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 3412.24,
+        "irc_status": "SAFE",
+        "days_to_failure": 3018,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:05.051308",
+        "lat": 28.541189974982345,
+        "lng": 77.39687174828012,
+        "object_type": "ROAD_STUD",
+        "ra_value": 5859.22,
+        "irc_status": "SAFE",
+        "days_to_failure": 7540,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:05.551587",
+        "lat": 28.541364527517437,
+        "lng": 77.39714187729797,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 5491.52,
+        "irc_status": "SAFE",
+        "days_to_failure": 5258,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:05.551587",
+        "lat": 28.541364527517437,
+        "lng": 77.39714187729797,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 6162.5,
+        "irc_status": "SAFE",
+        "days_to_failure": 17110,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:05.551587",
+        "lat": 28.541364527517437,
+        "lng": 77.39714187729797,
+        "object_type": "ROAD_STUD",
+        "ra_value": 4098.08,
+        "irc_status": "SAFE",
+        "days_to_failure": 5239,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.051902",
+        "lat": 28.541568272219074,
+        "lng": 77.39731164489527,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 1683.16,
+        "irc_status": "SAFE",
+        "days_to_failure": 1495,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.051902",
+        "lat": 28.541568272219074,
+        "lng": 77.39731164489527,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1402.21,
+        "irc_status": "SAFE",
+        "days_to_failure": 2954,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.051902",
+        "lat": 28.541568272219074,
+        "lng": 77.39731164489527,
+        "object_type": "ROAD_STUD",
+        "ra_value": 694.28,
+        "irc_status": "SAFE",
+        "days_to_failure": 685,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.552085",
+        "lat": 28.541735101261324,
+        "lng": 77.39757706217945,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 11020.12,
+        "irc_status": "SAFE",
+        "days_to_failure": 9466,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.552085",
+        "lat": 28.541735101261324,
+        "lng": 77.39757706217945,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 6016.48,
+        "irc_status": "SAFE",
+        "days_to_failure": 5195,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:06.552085",
+        "lat": 28.541735101261324,
+        "lng": 77.39757706217945,
+        "object_type": "ROAD_STUD",
+        "ra_value": 7718.07,
+        "irc_status": "SAFE",
+        "days_to_failure": 10312,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:07.052531",
+        "lat": 28.542020671700953,
+        "lng": 77.39771382082797,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1134.69,
+        "irc_status": "SAFE",
+        "days_to_failure": 1351,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:07.052531",
+        "lat": 28.542020671700953,
+        "lng": 77.39771382082797,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 649.57,
+        "irc_status": "SAFE",
+        "days_to_failure": 441,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:07.052531",
+        "lat": 28.542020671700953,
+        "lng": 77.39771382082797,
+        "object_type": "ROAD_STUD",
+        "ra_value": 932.74,
+        "irc_status": "SAFE",
+        "days_to_failure": 1091,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:07.552809",
+        "lat": 28.54215101048907,
+        "lng": 77.39786315692822,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 1886.14,
+        "irc_status": "SAFE",
+        "days_to_failure": 4357,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:07.552809",
+        "lat": 28.54215101048907,
+        "lng": 77.39786315692822,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1456.68,
+        "irc_status": "SAFE",
+        "days_to_failure": 1851,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:08.053237",
+        "lat": 28.542434438562054,
+        "lng": 77.39810201793473,
+        "object_type": "ROAD_STUD",
+        "ra_value": 1672.0,
+        "irc_status": "SAFE",
+        "days_to_failure": 1981,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:08.053237",
+        "lat": 28.542434438562054,
+        "lng": 77.39810201793473,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2167.59,
+        "irc_status": "SAFE",
+        "days_to_failure": 1779,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:08.553729",
+        "lat": 28.542551326570692,
+        "lng": 77.39837899974395,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 68.94,
+        "irc_status": "DANGER",
+        "days_to_failure": 0,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:08.553729",
+        "lat": 28.542551326570692,
+        "lng": 77.39837899974395,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 252.02,
+        "irc_status": "SAFE",
+        "days_to_failure": 141,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:09.054223",
+        "lat": 28.542817470387874,
+        "lng": 77.39867401011892,
+        "object_type": "ROAD_STUD",
+        "ra_value": 8393.49,
+        "irc_status": "SAFE",
+        "days_to_failure": 11708,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:09.554697",
+        "lat": 28.54300823915247,
+        "lng": 77.39890630285029,
+        "object_type": "ROAD_STUD",
+        "ra_value": 6960.58,
+        "irc_status": "SAFE",
+        "days_to_failure": 8740,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:10.055227",
+        "lat": 28.543177949117336,
+        "lng": 77.39918711462626,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 5737.91,
+        "irc_status": "SAFE",
+        "days_to_failure": 5325,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:10.555773",
+        "lat": 28.543281357199117,
+        "lng": 77.39943024275874,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 442.92,
+        "irc_status": "SAFE",
+        "days_to_failure": 512,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:10.555773",
+        "lat": 28.543281357199117,
+        "lng": 77.39943024275874,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 755.58,
+        "irc_status": "SAFE",
+        "days_to_failure": 561,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:11.056246",
+        "lat": 28.54350758387673,
+        "lng": 77.39956342498671,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2527.64,
+        "irc_status": "SAFE",
+        "days_to_failure": 1972,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:11.056246",
+        "lat": 28.54350758387673,
+        "lng": 77.39956342498671,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 3555.87,
+        "irc_status": "SAFE",
+        "days_to_failure": 9960,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:11.556813",
+        "lat": 28.543710627751363,
+        "lng": 77.39972980517307,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3899.95,
+        "irc_status": "SAFE",
+        "days_to_failure": 5625,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:11.556813",
+        "lat": 28.543710627751363,
+        "lng": 77.39972980517307,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3039.13,
+        "irc_status": "SAFE",
+        "days_to_failure": 3874,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:11.556813",
+        "lat": 28.543710627751363,
+        "lng": 77.39972980517307,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 7403.53,
+        "irc_status": "SAFE",
+        "days_to_failure": 5965,
+        "weather_condition": "WET"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:12.057124",
+        "lat": 28.543884026539267,
+        "lng": 77.39990329386852,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 45100.39,
+        "irc_status": "SAFE",
+        "days_to_failure": 39739,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:12.057124",
+        "lat": 28.543884026539267,
+        "lng": 77.39990329386852,
+        "object_type": "ROAD_STUD",
+        "ra_value": 58318.28,
+        "irc_status": "SAFE",
+        "days_to_failure": 88350,
+        "weather_condition": "FOG"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:12.557784",
+        "lat": 28.54411621812553,
+        "lng": 77.40020132740077,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 3411.86,
+        "irc_status": "SAFE",
+        "days_to_failure": 8039,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:13.058184",
+        "lat": 28.544373463173272,
+        "lng": 77.40049059089439,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 1172.73,
+        "irc_status": "SAFE",
+        "days_to_failure": 873,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:13.058184",
+        "lat": 28.544373463173272,
+        "lng": 77.40049059089439,
+        "object_type": "ROAD_STUD",
+        "ra_value": 806.49,
+        "irc_status": "SAFE",
+        "days_to_failure": 929,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:13.058184",
+        "lat": 28.544373463173272,
+        "lng": 77.40049059089439,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 901.55,
+        "irc_status": "SAFE",
+        "days_to_failure": 676,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:13.558856",
+        "lat": 28.544631747917208,
+        "lng": 77.40062559133881,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 2661.11,
+        "irc_status": "SAFE",
+        "days_to_failure": 2290,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:14.059289",
+        "lat": 28.54481875057273,
+        "lng": 77.40089214018778,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 2175.38,
+        "irc_status": "SAFE",
+        "days_to_failure": 4956,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:14.559773",
+        "lat": 28.545109431380403,
+        "lng": 77.40109481123855,
+        "object_type": "ROAD_STUD",
+        "ra_value": 5539.45,
+        "irc_status": "SAFE",
+        "days_to_failure": 7038,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:14.559773",
+        "lat": 28.545109431380403,
+        "lng": 77.40109481123855,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 6601.93,
+        "irc_status": "SAFE",
+        "days_to_failure": 17074,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:14.559773",
+        "lat": 28.545109431380403,
+        "lng": 77.40109481123855,
+        "object_type": "ROAD_MARKING",
+        "ra_value": 5813.01,
+        "irc_status": "SAFE",
+        "days_to_failure": 5305,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:15.060298",
+        "lat": 28.545377835822567,
+        "lng": 77.40129038786012,
+        "object_type": "SIGN_BOARD",
+        "ra_value": 542.56,
+        "irc_status": "SAFE",
+        "days_to_failure": 770,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:15.060298",
+        "lat": 28.545377835822567,
+        "lng": 77.40129038786012,
+        "object_type": "ROAD_STUD",
+        "ra_value": 523.97,
+        "irc_status": "SAFE",
+        "days_to_failure": 498,
+        "weather_condition": "CLEAR"
+    },
+    {
+        "timestamp": "2026-04-21T00:18:15.560569",
+        "lat": 28.545634530226334,
+        "lng": 77.40151454123293,
+        "object_type": "ROAD_STUD",
+        "ra_value": 3609.2,
+        "irc_status": "SAFE",
+        "days_to_failure": 5120,
+        "weather_condition": "WET"
+    }
+]
