@@ -1,4 +1,4 @@
-# RetroScan AI ️
+# RetroScan AI
 
 > **Physics-First, AI-Assisted Mobile Retroreflectivity Measurement System for National Highways**
 
@@ -9,6 +9,24 @@
 [![IRC Compliant](https://img.shields.io/badge/IRC-67%20%7C%2035%20Compliant-orange)](https://morthpublications.gov.in)
 
 RetroScan AI turns every existing NHAI patrol vehicle into a real-time highway inspection unit — delivering calibrated RA values in **mcd/m²/lux**, fully compliant with **IRC 35** and **IRC 67** standards, at highway speed, across all weather conditions, with zero traffic disruption.
+
+---
+
+## Demo & Screenshots
+
+**Live Demo:** https://euiuvniwnm2fw.kimi.show
+
+https://github.com/user-attachments/assets/f3acb558-78a7-46aa-9ec4-a6c089d5316c
+
+<img width="1920" height="1080" alt="Screenshot (1122)" src="https://github.com/user-attachments/assets/3845f141-63e8-4e2b-a0c2-cf789638ed74" />
+
+<img width="1920" height="1080" alt="Screenshot (1123)" src="https://github.com/user-attachments/assets/1ba6d358-3e26-402a-9145-5794d9e1c11a" />
+
+<img width="1920" height="1080" alt="Screenshot (1124)" src="https://github.com/user-attachments/assets/f3f17240-a7fc-429b-ac59-cdcef639078a" />
+
+<img width="1723" height="669" alt="Screenshot 2026-04-20 202117" src="https://github.com/user-attachments/assets/4fd8ec29-8153-4850-b95d-6530a6ef91aa" />
+
+<img width="1920" height="1080" alt="Screenshot (1126)" src="https://github.com/user-attachments/assets/751a5ce9-55e0-45f6-bf63-82dd8acdc5c4" />
 
 ---
 
