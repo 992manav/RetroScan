@@ -4,6 +4,11 @@
 
 This project aims to automate highway compliance monitoring against IRC (Indian Roads Congress) standards, specifically IRC 67 and IRC 35.
 
+
+https://github.com/user-attachments/assets/f3acb558-78a7-46aa-9ec4-a6c089d5316c
+
+https://euiuvniwnm2fw.kimi.show
+
 ---
 
 ## 🎯 Key Features
